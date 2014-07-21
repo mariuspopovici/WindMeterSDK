@@ -8,7 +8,7 @@ Integrating the Wind Meter SDK into an application is fairly straightforward and
 ###Usage
 
 ```objective-c
-#import "WindMeterSDK.h
+#import "WindMeterSDK.h"
 ```
 
 ####Setup Sensor Object

@@ -4,11 +4,12 @@ Integrating the Wind Meter SDK into an application is fairly straightforward and
 
 ###Project Setup
 * Drag the ["WindMeterSDK"] folder into your project.  This folder includes a static library, an audio file used by the library as well as the necessary headers.  Xcode should automatically link the static library included within this folder.
+* Assure the following linker flags have been set:  "-ObjC", "-all_load" and "-lc++"
 
 ###Usage
 
 ```objective-c
-#import "WindMeterSDK.h
+#import "WindMeterSDK.h"
 ```
 
 ####Setup Sensor Object

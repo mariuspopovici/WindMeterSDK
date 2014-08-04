@@ -19,3 +19,133 @@ You can read more about this option within the read me file for [Full Integratio
 
 [Lightweight Integration for iOS]:https://github.com/WeatherFlow/WindMeterSDK/tree/master/iOS/Lightweight%20Integration%20Example
 [Full Integration for iOS]:https://github.com/WeatherFlow/WindMeterSDK/tree/master/iOS/Full%20Integration%20Example
+
+<table>
+
+<tr><td colspan="3" align="center"><strong>iOS Device Compatibility</strong></td></tr>
+
+<tr>
+
+<td>
+<table>
+  <tr>
+    <td>iPhone 5S</td><td>&#x2713;</td>
+  </tr>
+  <tr>
+    <td>iPhone 5</td><td>&#x2713;</td>
+  </tr>
+  <tr>
+    <td>iPhone 4S</td><td>&#x2713;</td>
+  </tr>
+  <tr>
+    <td>iPhone 4</td><td>&#x2713;</td>
+  </tr>
+  <tr>
+    <td>iPhone 3GS</td><td>&#x2713;</td>
+  </tr>
+  <tr>
+    <td>iPhone 3G</td><td>&#x2717;</td>
+  </tr>
+  <tr>
+    <td>iPhone (Original)</td><td>&#x2717;</td>
+  </tr>
+</table>
+</td>
+
+<td>
+<table>
+  <tr>
+    <td>iPad Mini with Retina</td><td>&#x2713;</td>
+  </tr>
+  <tr>
+  <tr>
+    <td>iPad Air</td><td>&#x2713;</td>
+  </tr>
+  <tr>
+    <td>iPad (Gen 4)</td><td>&#x2713;</td>
+  </tr>
+  <tr>
+    <td>iPad Mini</td><td>&#x2713;</td>
+  </tr>
+  <tr>
+    <td>iPad (Gen 3)</td><td>&#x2713;</td>
+  </tr>
+    <tr>
+    <td>iPad (Gen 2)</td><td>&#x2713;</td>
+  </tr>
+    <tr>
+    <td>iPad (Gen 1)</td><td>&#x2717;</td>
+  </tr>
+</table>
+</td>
+
+<td>
+<table>
+  <tr>
+    <td>iPod Touch (Gen 5)</td><td>&#x2713;</td>
+  </tr>
+  <tr>
+    <td>iPod Touch (Gen 4)</td><td>&#x2713;</td>
+  </tr>
+  <tr>
+    <td>iPod Touch (Gen 3)</td><td>&#x2717;</td>
+  </tr>
+    <tr>
+    <td>iPod Touch (Gen 2)</td><td>&#x2717;</td>
+  </tr>
+    <tr>
+    <td>iPod Touch (Gen 1)</td><td>&#x2717;</td>
+  </tr>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+</table>
+</td>
+
+</tr>
+</table>
+
+<table>
+
+<tr><td colspan="3" align="center"><strong>iOS Version Compatibility</strong></td></tr>
+
+<tr>
+
+<td>
+<table>
+<tr>
+    <td>iOS 7.x</td><td>&#x2713;</td>
+  </tr>
+  
+  <tr>
+    <td>iOS 4.x</td><td>&#x2717;</td>
+  </tr>
+  
+  
+  
+</table>
+</td>
+
+<td>
+<table>
+  <tr>
+    <td>iOS 6.x</td><td>&#x2713;</td>
+  </tr>
+  <tr>
+    <td>iPhone 3.x OS</td><td>&#x2717;</td>
+  </tr>
+</table>
+</td>
+
+<td>
+<table>
+  <tr>
+    <td>iOS 5.x</td><td>&#x2717;</td>
+  </tr>
+  <tr>
+    <td>iPhone 2.x OS</td><td>&#x2717;</td>
+  </tr>
+</table>
+</td>
+
+</tr>
+</table>

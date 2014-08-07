@@ -88,5 +88,5 @@ WFSensor.getInstance(MainActivity.this).setOnValueChangedListener(null); //stops
 
 An [example project] has also been provided with a working example.
 
-[example project]:https://github.com/WeatherFlow/WindMeterSDK/tree/master/Android/Full%20Integration%20Example
+[example project]:https://github.com/WeatherFlow/WindMeterSDK/tree/master/Android/Full%20Integration%20Example/SDK%20Example
 

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/dtrauger/Desktop/Source Code/WindMeterSDK/Android/Full Integration Example/SDK Example/app/build/intermediates/pre-dexed/debug/gson-2.2.4-187ecbf8ae9cec0c2ae1f60f8e7e9815a1c1b063.jar"
+        jar="/Users/dtrauger/Desktop/Source Code/WindMeterSDK/Android/Full Integration Example/SDK Example/app/libs/gson-2.2.4.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="973e832af433b44c3ed11c426f2f390b29f3f3f8"/>
+    <item
+        dex="/Users/dtrauger/Desktop/Source Code/WindMeterSDK/Android/Full Integration Example/SDK Example/app/build/intermediates/pre-dexed/debug/classes-2cfb1bacb9ca076bb5c296bf465ca30f95245ce0.jar"
+        jar="/Users/dtrauger/Desktop/Source Code/WindMeterSDK/Android/Full Integration Example/SDK Example/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28"/>
+    <item
+        dex="/Users/dtrauger/Desktop/Source Code/WindMeterSDK/Android/Full Integration Example/SDK Example/app/build/intermediates/pre-dexed/debug/sensor_sdk-39773fbd67772dd59d40755343ac0254bfa3fcbb.jar"
+        jar="/Users/dtrauger/Desktop/Source Code/WindMeterSDK/Android/Full Integration Example/SDK Example/app/libs/sensor_sdk.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="ae5b96df7ba82fa61c0ebbf63024b5f9c756c033"/>
+    <item
+        dex="/Users/dtrauger/Desktop/Source Code/WindMeterSDK/Android/Full Integration Example/SDK Example/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-fe930dc68beb1e566675ce71b270d4091c6c249b.jar"
+        jar="/Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67"/>
+
+</pre-dex-items>

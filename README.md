@@ -1,5 +1,8 @@
-##Wind Meter SDK for iOS
+##Wind Meter SDK
+
 The Wind Meter SDK is a tool that enables Android and iOS developers to provide support for the [WeatherFlow Wind Meter] within their own app. There is no fee for using the Wind Meter SDK. The only condition is that you contact us and make us aware of your your app. In the vast majority of cases we are happy to support your efforts and may be able to offer help promoting and/or selling your app. Please contact us using our [Developer Inquiry Form] 
+
+##Wind Meter SDK for iOS
 
 ####Lightweight Integration
 The lightweight integration option allows developers to leverage the WeatherFlow Wind Meter app's user interface directly, eliminating the need to build and maintain their own interface for the purpose of displaying real-time wind data.  This option utilizes a custom URL scheme to pass data between the WeatherFlow Wind Meter app and the developer's app.

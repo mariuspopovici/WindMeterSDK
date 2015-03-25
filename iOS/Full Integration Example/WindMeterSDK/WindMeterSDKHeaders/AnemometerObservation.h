@@ -8,6 +8,8 @@
 
 #import <Foundation/Foundation.h>
 
+@class AnemometerDevice;
+
 @interface AnemometerObservation : NSObject<NSCoding> {
     NSNumber *rpm;
     NSNumber *windSpeed; //meters per second
@@ -35,8 +37,8 @@
 @property (nonatomic, retain) NSNumber *statusCode;
 @property (nonatomic, retain) NSString *statusMessage;
 
-- (NSDictionary*)objectAsDictionary;
-- (NSString *)jsonString;
-- (NSString *)prettyJsonString;
+- (NSDictionary*) objectAsDictionary;
+- (NSString *) jsonString;
+- (NSString *) prettyJsonString;
 
 @end

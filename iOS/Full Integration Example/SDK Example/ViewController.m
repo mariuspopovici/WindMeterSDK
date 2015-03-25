@@ -62,13 +62,8 @@
     
 }
 
--(void)destroySensor {
-    [sensor reportValueChange:nil];
-    sensor = nil;
-}
-
 -(void) dealloc {
-    [self destroySensor];
+    [sensor destroySensor];
 }
 
 @end

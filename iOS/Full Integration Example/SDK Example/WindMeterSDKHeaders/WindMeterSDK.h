@@ -18,5 +18,6 @@
 - (void)startListener;
 - (void)stopListener;
 - (void)reportValueChange:(void(^)(AnemometerObservation *))handler;
+- (void)destroySensor;
 
 @end

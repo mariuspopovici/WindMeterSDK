@@ -39,7 +39,7 @@ sensor = [[WindMeterSDK alloc] init];
 
 ####Clean up
 ```objective-c
-[sensor reportValueChange:nil];
+[sensor destroySensor];
 sensor = nil;
 ```
 
